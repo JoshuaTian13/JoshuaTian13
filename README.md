@@ -40,12 +40,9 @@ This profile is a **work in progress** — I’m currently refining my projects 
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/joshtian13/)  
 - [GitHub](https://github.com/JoshuaTian13)  
 - [Email](mailto:joshua.tian@duke.edu)  
 
----
-
-✨ Thanks for stopping by — check back soon as I keep building this out!
