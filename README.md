@@ -14,7 +14,7 @@ This profile is a **work in progress** — I’m currently refining my projects 
 - **[Duke Food Review Platform](https://github.com/JoshuaTian13/Duke-Food-Review-Platform)**  
   Built a MERN stack web app for restaurant reviews and ratings, deployed with RESTful APIs and mobile integration.  
 
-- **[IoT-Based Auto Control System](https://github.com/JoshuaTian13/IoT-Auto-Control-System)**  
+- **[IoT-Based Auto Control System](https://github.com/JoshuaTian13/IoT-Based-Auto-Control-System)**  
   Developed a smart AC vent system with Raspberry Pi IoT hardware and Firebase integration, reducing cooling energy use by ~10%.  
 
 - **[Autonomous Boat & Buoy](https://github.com/JoshuaTian13/Autonomous-Boat-Buoy)**  
