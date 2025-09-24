@@ -11,7 +11,7 @@ This profile is a **work in progress** — I’m currently refining my projects 
 - **[Smart Battery Charger](https://github.com/JoshuaTian13/Smart-Battery-Charger)**  
   Designed a smart charging system with ESP32 + custom PCB, using AWS IoT Core and DynamoDB for real-time telemetry and SageMaker for ML-based optimization.  
 
-- **[Duke Food Review Platform](https://github.com/JoshuaTian13/Duke-Food-Review-Platform)**  
+- **[Duke Food Review Platform](https://github.com/JoshuaTian13/Duke-Food-Review)**  
   Built a MERN stack web app for restaurant reviews and ratings, deployed with RESTful APIs and mobile integration.  
 
 - **[IoT-Based Auto Control System](https://github.com/JoshuaTian13/IoT-Based-Auto-Control-System)**  
