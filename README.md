@@ -6,7 +6,7 @@ This profile is a **work in progress** — I’m currently refining my projects 
 
 ---
 
-## 🔧 Featured Projects  
+## Featured Projects  
 
 - **[Smart Battery Charger](https://github.com/JoshuaTian13/Smart-Battery-Charger)**  
   Designed a smart charging system with ESP32 + custom PCB, using AWS IoT Core and DynamoDB for real-time telemetry and SageMaker for ML-based optimization.  
@@ -23,7 +23,7 @@ This profile is a **work in progress** — I’m currently refining my projects 
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Languages:** Python, Java, C++, JavaScript/TypeScript  
 - **Web & Cloud:** React, Express, Node.js, MongoDB, PostgreSQL, AWS (IoT Core, DynamoDB, SageMaker)  
@@ -32,7 +32,7 @@ This profile is a **work in progress** — I’m currently refining my projects 
 
 ---
 
-## 📈 What I'm Working On  
+## What I'm Working On  
 
 - Expanding my GitHub portfolio with full documentation, diagrams, and deployment instructions  
 - Experimenting with **distributed monitoring and observability tools**  
