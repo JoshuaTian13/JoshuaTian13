@@ -1,48 +1,40 @@
-# 👋 Hi, I'm Joshua Tian  
+# Joshua Tian
 
-Welcome to my GitHub! I'm an undergraduate at Duke University studying **Electrical & Computer Engineering** and **Computer Science**, with a minor in Finance. My interests lie at the intersection of **distributed systems, IoT, cloud infrastructure, and machine learning**.  
+Electrical & Computer Engineering and Computer Science student at Duke University, graduating December 2027. I build low-level systems where software, digital hardware, and physical devices have to work together reliably.
 
-This profile is a **work in progress** — I’m currently refining my projects and adding more documentation. Stay tuned for updates! 🚧  
+I am currently seeking Summer 2027 internships in embedded software, firmware, systems, FPGA/RTL, computer architecture, and hardware-software integration.
 
----
+[LinkedIn](https://www.linkedin.com/in/joshtian13/) · [joshua.tian@duke.edu](mailto:joshua.tian@duke.edu)
 
-## Featured Projects  
+## Featured work
 
-- **[Smart Battery Charger](https://github.com/JoshuaTian13/Smart-Battery-Charger)**  
-  Designed a smart charging system with ESP32 + custom PCB, using AWS IoT Core and DynamoDB for real-time telemetry and SageMaker for ML-based optimization.  
+### [FPGA CNC Drawing Machine](https://github.com/JoshuaTian13/fpga-cnc-drawing-machine)
 
-- **[Duke Food Review Platform](https://github.com/JoshuaTian13/Duke-Food-Review)**  
-  Built a MERN stack web app for restaurant reviews and ratings, deployed with RESTful APIs and mobile integration.  
+Built a physical two-axis drawing machine around a custom five-stage, 32-bit pipelined MIPS processor on a Nexys A7 FPGA. The system combines Verilog RTL, forwarding and hazard control, MMIO, a Bresenham motion controller, MIPS firmware, and a Python image compiler.
 
-- **[IoT-Based Auto Control System](https://github.com/JoshuaTian13/IoT-Based-Auto-Control-System)**  
-  Developed a smart AC vent system with Raspberry Pi IoT hardware and Firebase integration, reducing cooling energy use by ~10%.  
+`Verilog` `FPGA` `Computer Architecture` `MIPS` `MMIO` `Vivado` `GTKWave` `Python`
 
-- **[Autonomous Boat & Buoy](https://github.com/JoshuaTian13/Autonomous-Boat-Buoy)**  
-  Automated data collection of water quality metrics across waypoints with LoRa transmission to a SQL database.  
+### [Avionics Flight Computer](https://github.com/JoshuaTian13/avionics-flight-computer)
 
+Led flight-computer firmware features and a PCB-based black-box redesign spanning embedded C++, sensor and radio interfaces, fault-aware state logic, KiCad, board bring-up, hardware-in-the-loop testing, and supercapacitor-backed data preservation during power loss.
 
----
+`Embedded C++` `PCB Design` `KiCad` `I2C` `SPI` `UART` `LoRa` `Hardware-in-the-Loop`
 
-## Tech Stack  
+### [IoT Connectivity Monitor](https://github.com/JoshuaTian13/iot-connectivity-monitor)
 
-- **Languages:** Python, Java, C++, JavaScript/TypeScript  
-- **Web & Cloud:** React, Express, Node.js, MongoDB, PostgreSQL, AWS (IoT Core, DynamoDB, SageMaker)  
-- **IoT & Embedded:** ESP32, Raspberry Pi, PCB Design, LoRa  
-- **Tools:** Git, Linux, Bash, Docker  
+Built Linux/Python monitoring that preserves remote access to deployed IoT devices as router public IP addresses change, with an authenticated Flask API, durable SQLite history, retry logic, and automated tests.
 
----
+`Python` `Flask` `Linux` `Networking` `IoT` `SQLite` `Monitoring` `Testing`
 
-## What I'm Working On  
+### [Smart Battery Charger](https://github.com/JoshuaTian13/Smart-Battery-Charger)
 
-- Expanding my GitHub portfolio with full documentation, diagrams, and deployment instructions  
-- Experimenting with **distributed monitoring and observability tools**  
-- Diving deeper into **real-time data pipelines and scalable cloud architectures**  
+Developed an ESP32-based charging and telemetry platform spanning multi-mode embedded control, local safety interlocks, AWS IoT ingestion, DynamoDB storage, SageMaker battery-health estimation, and a React operations dashboard.
 
----
+`C++` `ESP32` `FreeRTOS` `AWS IoT Core` `DynamoDB` `SageMaker` `React` `PlatformIO`
 
-## Connect with Me  
+## Technical focus
 
-- [LinkedIn](https://www.linkedin.com/in/joshtian13/)  
-- [GitHub](https://github.com/JoshuaTian13)  
-- [Email](mailto:joshua.tian@duke.edu)  
-
+- **Embedded and systems:** C, C++, FreeRTOS, Embedded Linux, device drivers, bootloaders, networking, firmware validation
+- **Digital hardware:** Verilog, FPGA development, pipelined processors, MMIO, timing analysis, waveform debugging
+- **Hardware integration:** PCB design, KiCad, sensors, I2C, SPI, UART, PWM, board bring-up, lab instrumentation
+- **Software and cloud:** Python, Java, JavaScript, Flask, REST APIs, React, AWS IoT, DynamoDB, SageMaker, Git
