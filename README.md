@@ -1,8 +1,10 @@
 # Joshua Tian
 
-Electrical & Computer Engineering and Computer Science student at Duke University, graduating December 2027. I build low-level systems where software, digital hardware, and physical devices have to work together reliably.
+Electrical & Computer Engineering and Computer Science student at Duke University, graduating December 2027. I enjoy building and understanding complex technical systems, from software and algorithms to digital hardware and physical devices.
 
-I am currently seeking Summer 2027 internships in embedded software, firmware, systems, FPGA/RTL, computer architecture, and hardware-software integration.
+My interests are strongest in systems, embedded software, computer architecture, and hardware-software integration, but I am also excited by broader software engineering problems involving algorithms, performance, infrastructure, and large-scale systems. I am always looking to learn new technologies, work in unfamiliar domains, and take on problems that push me beyond what I have worked on before.
+
+I am currently seeking Summer 2027 internships across software engineering, embedded software, firmware, systems, FPGA/RTL, computer architecture, and hardware-software integration.
 
 [LinkedIn](https://www.linkedin.com/in/joshtian13/) · [joshua.tian@duke.edu](mailto:joshua.tian@duke.edu)
 
